@@ -1,0 +1,215 @@
+newmtl Bolts003SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 889.44
+newmtl Caliper003SG
+illum 4
+Kd 0.07 0.32 0.64
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.49 0.49 0.49
+Ns 546.75
+newmtl Disc003SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Brake_Disc.jpg
+Ni 1.00
+Ks 0.45 0.45 0.45
+Ns 335.79
+newmtl Rim003SG
+illum 4
+Kd 0.32 0.32 0.32
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 360.04
+newmtl Tyre003SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Tyre_Sidewall.jpg
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 62.00
+newmtl Tyre003SG1
+illum 4
+Kd 0.03 0.03 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 62.00
+newmtl blackSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.09 0.09
+Ns 254.00
+newmtl black_glasSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.74 0.74 0.74
+Ni 1.00
+Ks 0.38 0.38 0.38
+Ns 1022.00
+newmtl bottomSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Car_Paint_-_Blue_Black_Decal.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 62.00
+newmtl chromeSG
+illum 4
+Kd 0.52 0.52 0.52
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 829.75
+newmtl defaultSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Body_Work_&_Under_Carriage.jpg
+Ni 1.00
+Ks 0.66 0.66 0.66
+Ns 192.01
+newmtl defaultSG2
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+Ni 1.00
+Ks 0.78 0.78 0.78
+Ns 546.75
+newmtl defaultSG3
+illum 4
+Kd 0.52 0.52 0.52
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 829.75
+newmtl defaultSG4
+illum 4
+Kd 0.14 0.14 0.14
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.66 0.66 0.66
+Ns 192.01
+newmtl defaultSG5
+illum 4
+Kd 0.14 0.14 0.14
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.66 0.66 0.66
+Ns 192.01
+newmtl detail_g01SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.62 0.62 0.62
+Ni 1.00
+Ks 0.38 0.38 0.38
+Ns 1022.00
+newmtl emblemSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Car_Paint_-_Blue_Black_Decal.jpg
+Ni 1.00
+Ks 0.97 0.97 0.97
+Ns 360.04
+newmtl glassSG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+Ni 1.00
+Ks 0.78 0.78 0.78
+Ns 546.75
+newmtl head_lightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Lights_-_All_Round.jpg
+Ni 1.00
+Ks 0.78 0.78 0.78
+Ns 413.87
+newmtl interiorSG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl miscSG
+illum 4
+Kd 0.08 0.08 0.08
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.09 0.09
+Ns 254.00
+newmtl plastic2SG
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.32 0.32 0.32
+Ns 546.75
+newmtl rubber_triSG
+illum 4
+Kd 0.08 0.08 0.08
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.09 0.09
+Ns 254.00
+newmtl textured_rSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Lights_-_All_Round.jpg
+Ni 1.00
+Ks 0.97 0.97 0.97
+Ns 360.04
+newmtl undercarriSG
+illum 4
+Kd 0.08 0.08 0.08
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.09 0.09
+Ns 254.00
+newmtl windowSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+Ni 1.00
+Ks 0.78 0.78 0.78
+Ns 12.09
